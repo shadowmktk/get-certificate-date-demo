@@ -4,7 +4,7 @@ Install requirements.
 pip3 install pyOpenSSL
 pip3 install pytz
 ```
-Runing demo.
+Running demo.
 ```
 python3 main.py
 ```
