@@ -86,7 +86,6 @@ root@Ubuntu:~/get-certificate-date-demo#
 ```
 
 domain expired.
-![image](https://github.com/user-attachments/assets/60e647ec-6ead-48dc-9bb4-487e03e66404)
 ```
 root@Ubuntu:~/get-certificate-date-demo# cat main.py 
 import ssl
